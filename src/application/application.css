@@ -1,0 +1,6 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.color-picker {-fx-color-label-visible: false ;}
+.color-picker .arrow-button{visibility:false;}
+.root {
+    -fx-background-image: url("light_grey.png");
+}
